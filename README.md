@@ -3,7 +3,8 @@
 # ML Study Artifacts
 
 Mini porjects:
-- 01-knn-experiments
+- knn-experiments
+- pytorch-basics
 
 ## Setup
 pip install -r requirements.txt
