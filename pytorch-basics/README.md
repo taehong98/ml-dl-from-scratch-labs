@@ -10,5 +10,5 @@
 -  Custom Dataset이 (x, y)를 반환할 때 DataLoader가 batch_size=2 기준으로 x_batch, y_batch를 어떻게 묶는지(shape 포함) 확인했다
 
 ## Artifacts
-- notebook : factory_dataset.ipynb
+- notebook : result/factory_dataset.ipynb
 - logs : logs/experimen_log.md
